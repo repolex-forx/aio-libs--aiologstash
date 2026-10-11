@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiologstash/commit/61c8f784c590336406a1c1975bf9c5381adfa6ef",
       "git:hexsha": "61c8f784c590336406a1c1975bf9c5381adfa6ef",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:55:48.111977+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aiologstash/commit/2c4d59b38bac65cfdcb2fb2e70f598ead2616a53",
